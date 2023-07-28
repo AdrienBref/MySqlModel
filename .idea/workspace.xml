@@ -4,11 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2216af08-16d9-4f8d-b8e8-8dc649cd00bb" name="Changes" comment="" />
+    <list default="true" id="2216af08-16d9-4f8d-b8e8-8dc649cd00bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Alumno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Centro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Centro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Modulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Bref/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Bref/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repositories/AlumnoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repositories/AlumnoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repositories/CentroRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repositories/CentroRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repositories/ModuloRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repositories/ModuloRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/repositories/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/repositories/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2T9FYxGpkt709wTwGJZTRVlSV6m" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +47,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
